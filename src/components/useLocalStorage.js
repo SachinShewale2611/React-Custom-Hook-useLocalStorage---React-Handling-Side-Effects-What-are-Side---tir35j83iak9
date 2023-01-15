@@ -18,7 +18,4 @@ const useLocalStorage = (stateVar, value) => {
 };
 
 export default useLocalStorage;
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
+
